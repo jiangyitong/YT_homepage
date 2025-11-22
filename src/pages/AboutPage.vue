@@ -145,7 +145,7 @@ export default {
           authors: '<strong>Yitong Jiang</strong>, Collin McCarthy, Hongjun Wang, Hanrong Ye, Qi Dou, Tianfan Xue, Jinwei Gu, Jan Kautz, Hongxu Yin, Pavlo Molchanov, Sifei Liu',
           venue: 'Under Review',
           date: '2025/11/01',
-          background: './pub-images/TEVA.png',
+          background: './pub-images/CGSPN.png',
           note: 'Project done at NVIDIA Research',
           operations: [
             {
