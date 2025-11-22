@@ -141,6 +141,34 @@ export default {
     return {
       researchItems: [
         {
+          title: 'Compact GSPN: Scaling Spatial Propagation to Vision Foundation Models',
+          authors: '<strong>Yitong Jiang</strong>, Collin McCarthy, Hongjun Wang, Hanrong Ye, Qi Dou, Tianfan Xue, Jinwei Gu, Jan Kautz, Hongxu Yin, Pavlo Molchanov, Sifei Liu',
+          venue: 'Under Review',
+          date: '2025/11/01',
+          background: './pub-images/TEVA.png',
+          note: 'Project done at NVIDIA Research',
+          operations: [
+            {
+              action: 'link',
+              buttonName: 'Paper',
+              buttonIcon: 'fa-file',
+              link: ''
+            },
+            {
+              action: 'route',
+              buttonName: 'Project Page',
+              buttonIcon: 'fa-globe',
+              link: ''
+            },
+            {
+              action: 'link',
+              buttonName: 'Code',
+              buttonIcon: 'fa-code',
+              link: ''
+            }
+          ]
+        },
+        {
           title: 'Token-Efficient VLM: High-Resolution Image Understanding via Dynamic Region Proposal',
           authors: '<strong>Yitong Jiang</strong>, Jinwei Gu, Tianfan Xue, Ka Chun Cheung, Pavlo Molchanov, Hongxu Yin, Sifei Liu',
           venue: 'ICCV 2025',
