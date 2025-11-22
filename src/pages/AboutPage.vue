@@ -253,7 +253,7 @@ export default {
           authors: 'Kechun Liu, <strong>Yitong Jiang</strong>, Inchang Choi, Jinwei Gu',
           venue: 'ICCV 2023',
           date: '2023/10/01',
-          background: '/pub-images/Learning Image-Adaptive.png',
+          background: './pub-images/Learning Image-Adaptive.png',
           operations: [
             {
               action: 'link',
@@ -316,7 +316,7 @@ export default {
           authors: 'Xiaowei Hu, Tianyu Wang, Chi-Wing Fu, <strong>Yitong Jiang</strong>, Qiong Wang, Pheng-Ann Heng',
           venue: 'TIP 2021',
           date: '2021/1/11',
-          background: '/pub-images/Revisiting_Shadow_Detection.png',
+          background: './pub-images/Revisiting_Shadow_Detection.png',
           operations: [
             {
               action: 'link',

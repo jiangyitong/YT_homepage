@@ -5,7 +5,7 @@ import { fileURLToPath, URL } from 'node:url'
 
 // GitHub Pages configuration (without obfuscation for faster builds)
 export default defineConfig({
-  base: '/your-repo-name/', // Replace with your actual GitHub repo name
+  base: '/YT_homepage/', // GitHub repo name
   plugins: [
     vue()
   ],
